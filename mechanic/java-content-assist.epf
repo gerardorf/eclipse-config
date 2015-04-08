@@ -1,0 +1,9 @@
+# @title java-content-assist
+# @description insert best guessed args and remove swt from suggestions
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Apr 08 09:21:34 CEST 2015
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/content_assist_guess_method_arguments=true
+/instance/org.eclipse.jdt.ui/content_assist_category_order=org.eclipse.jdt.ui.templateProposalCategory\:0\u0000org.eclipse.jdt.ui.swtProposalCategory\:65536\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:65537\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:65538\u0000org.eclipse.jdt.ui.textProposalCategory\:65539\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:65540\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\:6\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\:7\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\:8\u0000org.eclipse.recommenders.completion.rcp.proposalCategory.intelligent\:9\u0000
