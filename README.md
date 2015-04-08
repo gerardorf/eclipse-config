@@ -6,9 +6,8 @@ This is my most common configuration on eclipse.
 ### Installation
 
 ```sh
-$ cd
-$ git clone https://github.com/gerardorf/eclipse-config.git .eclipse
-$ ln -s ~/.eclipse/vrapper/.vrapperrc .vrapperrc
+$ git clone https://github.com/gerardorf/eclipse-config.git ~/.eclipse
+$ ln -s ~/.eclipse/vrapper/.vrapperrc ~/.vrapperrc
 ```
 
 [Workspace Mechanic]:http://marketplace.eclipse.org/content/workspace-mechanic
