@@ -1,0 +1,10 @@
+# @title java-typing
+# @description smart semicolon and braces, escape Strings
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Apr 07 23:46:26 CEST 2015
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/smart_semicolon=true
+/instance/org.eclipse.jdt.ui/escapeStrings=true
+/instance/org.eclipse.jdt.ui/smart_opening_brace=true
