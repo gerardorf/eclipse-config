@@ -1,7 +1,8 @@
 # Eclipse workspace configuration
 This is my most common configuration on eclipse.
 * mechanic directory contains [Workspace Mechanic] Preferences.
-* vrapper directory contains [Vrapper] Configuration
+* vrapper directory contains [Vrapper] Configuration.
+
 ### Installation
 
 ```sh
