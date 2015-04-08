@@ -1,0 +1,9 @@
+# @title general-editors
+# @description close editors automatically
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Apr 07 23:56:19 CEST 2015
+/instance/org.eclipse.ui.workbench/REUSE_OPEN_EDITORS_BOOLEAN=true
+/instance/org.eclipse.ui.workbench/REUSE_OPEN_EDITORS=5
+file_export_version=3.0
