@@ -5,4 +5,4 @@
 # Created by the Workspace Mechanic Preference Recorder
 #Thu Apr 09 16:57:58 CEST 2015
 file_export_version=3.0
-/instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=org.junit.Assert.*;org.hamcrest.Matchers.*
+/instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=org.junit.Assert.*;org.hamcrest.Matchers.*;org.mockito.Mockito.*
