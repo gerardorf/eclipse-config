@@ -1,0 +1,8 @@
+# @title maven-poms-snippets
+# @description junit, mockito, hamcrest
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Apr 10 17:51:15 CEST 2015
+file_export_version=3.0
+/instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="org.eclipse.m2e.editor.xml.templates.contextType.dependencies" deleted\="false" description\="junit dependecy" enabled\="true" name\="junit">\t\t&lt;dependency&gt;\n\t\t\t&lt;groupId&gt;junit&lt;/groupId&gt;\n\t\t\t&lt;artifactId&gt;junit&lt;/artifactId&gt;\n\t\t\t&lt;version&gt;4.12&lt;/version&gt;\n\t\t&lt;/dependency&gt;</template><template autoinsert\="true" context\="org.eclipse.m2e.editor.xml.templates.contextType.dependencies" deleted\="false" description\="mockito dependecy" enabled\="true" name\="mocikito">\t\t&lt;dependency&gt;\n\t\t\t&lt;groupId&gt;org.mockito&lt;/groupId&gt;\n\t\t\t&lt;artifactId&gt;mockito-all&lt;/artifactId&gt;\n\t\t\t&lt;version&gt;2.0.1&lt;/version&gt;\n\t\t&lt;/dependency&gt;</template><template autoinsert\="true" context\="org.eclipse.m2e.editor.xml.templates.contextType.\#document" deleted\="false" description\="hamcrest dependency" enabled\="true" name\="hamcrest">\t\t&lt;dependency&gt;\n\t\t\t&lt;groupId&gt;org.hamcrest&lt;/groupId&gt;\n\t\t\t&lt;artifactId&gt;hamcrest-all&lt;/artifactId&gt;\n\t\t\t&lt;version&gt;1.3&lt;/version&gt;\n\t\t&lt;/dependency&gt;</template></templates>
