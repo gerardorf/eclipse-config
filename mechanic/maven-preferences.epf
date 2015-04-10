@@ -1,0 +1,9 @@
+# @title maven-preferences
+# @description download dependencies sources and javadoc
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Apr 10 16:23:17 CEST 2015
+file_export_version=3.0
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadSources=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadJavadoc=true
