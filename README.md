@@ -1,6 +1,6 @@
 # Eclipse workspace configuration
 ## Download barebone version of eclipse
-Download latest release from [eclipse downloads site]
+Download latest release from [eclipse downloads site] (only the RCP runtime binaries ~50MB)
 
 ## Suggested plugins
 All of them can be downloaded from the marketplace
