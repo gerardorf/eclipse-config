@@ -8,6 +8,9 @@ All of them can be downloaded from the marketplace
 - workspace mechanic
 - saros pair programming
 
+Downloaded from repository sites: (repo added with workspace mechanics)
+- cucumber
+
 ## Workspace configuration
 This is my most common configuration on eclipse.
 * mechanic directory contains [Workspace Mechanic] Preferences.
