@@ -1,4 +1,7 @@
 # Eclipse workspace configuration
+## Download barebone version of eclipse
+Download latest release from [eclipse downloads site]
+
 ## Suggested plugins
 All of them can be downloaded from the marketplace
 - eclemma
@@ -25,4 +28,5 @@ $ ln -s ~/.eclipse/vrapper/.vrapperrc ~/.vrapperrc
 
 [Workspace Mechanic]:http://marketplace.eclipse.org/content/workspace-mechanic
 [Vrapper]:http://marketplace.eclipse.org/content/vrapper
+[eclipse downloads site]:http://download.eclipse.org/eclipse/downloads/
 
