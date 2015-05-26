@@ -1,0 +1,15 @@
+# @title cucumber-plugin-update-site
+# @description it adds cucumber plugin update site as available software repository
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue May 26 11:36:41 CEST 2015
+/profile/file\:\:\\2fopt\\2feclipse\\2fconfiguration\\2f..\\2fp2\\2f/_SELF_/org.eclipse.equinox.p2.metadata.repository/repositories/http\:\:__cucumber.github.com_cucumber-eclipse_update-site/isSystem=false
+/profile/file\:\:\\2fopt\\2feclipse\\2fconfiguration\\2f..\\2fp2\\2f/_SELF_/org.eclipse.equinox.p2.artifact.repository/repositories/http\:\:__cucumber.github.com_cucumber-eclipse_update-site/nickname=cucucmber-plugin
+/profile/file\:\:\\2fopt\\2feclipse\\2fconfiguration\\2f..\\2fp2\\2f/_SELF_/org.eclipse.equinox.p2.artifact.repository/repositories/http\:\:__cucumber.github.com_cucumber-eclipse_update-site/uri=http\://cucumber.github.com/cucumber-eclipse/update-site
+/profile/file\:\:\\2fopt\\2feclipse\\2fconfiguration\\2f..\\2fp2\\2f/_SELF_/org.eclipse.equinox.p2.metadata.repository/repositories/http\:\:__cucumber.github.com_cucumber-eclipse_update-site/uri=http\://cucumber.github.com/cucumber-eclipse/update-site
+file_export_version=3.0
+/profile/file\:\:\\2fopt\\2feclipse\\2fconfiguration\\2f..\\2fp2\\2f/_SELF_/org.eclipse.equinox.p2.artifact.repository/repositories/http\:\:__cucumber.github.com_cucumber-eclipse_update-site/enabled=true
+/profile/file\:\:\\2fopt\\2feclipse\\2fconfiguration\\2f..\\2fp2\\2f/_SELF_/org.eclipse.equinox.p2.metadata.repository/repositories/http\:\:__cucumber.github.com_cucumber-eclipse_update-site/enabled=true
+/profile/file\:\:\\2fopt\\2feclipse\\2fconfiguration\\2f..\\2fp2\\2f/_SELF_/org.eclipse.equinox.p2.artifact.repository/repositories/http\:\:__cucumber.github.com_cucumber-eclipse_update-site/isSystem=false
+/profile/file\:\:\\2fopt\\2feclipse\\2fconfiguration\\2f..\\2fp2\\2f/_SELF_/org.eclipse.equinox.p2.metadata.repository/repositories/http\:\:__cucumber.github.com_cucumber-eclipse_update-site/nickname=cucucmber-plugin
